@@ -1,0 +1,39 @@
+#tube-header {
+  background-color: #1A5A92;
+  max-width: 350px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-grow: 4;
+}
+
+#tube-status {
+  background-color: #F7F7F7;
+  border: 2px black solid;
+  max-width: 350px;
+  flex-grow: 0.5;
+  border-radius: 15px;
+}
+
+#wrapper {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.tube-ds {
+  border-bottom: 1px black solid;
+  padding: 20px;
+}
+
+#top-header {
+  max-width: 350px;
+  background-color: #1A5A92;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=main.css.map */
